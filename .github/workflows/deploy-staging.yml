@@ -11,7 +11,6 @@ env:
   ###############################################
   DOCKER_IMAGE_NAME: Sheva1991-azure-ttt
   AZURE_WEBAPP_NAME: Sheva1991-ttt-app
-  ###############################################
 
 jobs:
   build:
